@@ -1,5 +1,9 @@
 # Infrastructure
 
+## Azure
+
+Domain: aadforlinux.onmicrosoft.com
+
 ## Gitter
 
 Community: [aad-for-linux](https://gitter.im/aad-for-linux)
