@@ -2,7 +2,7 @@
 
 ## Azure
 
-Domain: aadforlinux.onmicrosoft.com
+Domain: `aadforlinux.onmicrosoft.com`
 
 ## Gitter
 
